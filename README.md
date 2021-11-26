@@ -7,13 +7,6 @@ This is a native hook demo with xhook.
 
 NativeHookDemo介绍：<http://xyzlf.cn/2020/10/15/android-native-hook.html>
 
-# 关于我
-
-有任何使用问题，可以给我发邮件：
-
-Author：张利峰
-
-E-mail：519578280@qq.com
 
 # License
 
